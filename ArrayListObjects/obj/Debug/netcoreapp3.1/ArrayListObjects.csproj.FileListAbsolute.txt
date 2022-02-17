@@ -1,0 +1,13 @@
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\ArrayListObjects\bin\Debug\netcoreapp3.1\ArrayListObjects.exe
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\ArrayListObjects\bin\Debug\netcoreapp3.1\ArrayListObjects.deps.json
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\ArrayListObjects\bin\Debug\netcoreapp3.1\ArrayListObjects.runtimeconfig.json
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\ArrayListObjects\bin\Debug\netcoreapp3.1\ArrayListObjects.runtimeconfig.dev.json
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\ArrayListObjects\bin\Debug\netcoreapp3.1\ArrayListObjects.dll
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\ArrayListObjects\bin\Debug\netcoreapp3.1\ArrayListObjects.pdb
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\ArrayListObjects\obj\Debug\netcoreapp3.1\ArrayListObjects.AssemblyInfoInputs.cache
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\ArrayListObjects\obj\Debug\netcoreapp3.1\ArrayListObjects.AssemblyInfo.cs
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\ArrayListObjects\obj\Debug\netcoreapp3.1\ArrayListObjects.csproj.CoreCompileInputs.cache
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\ArrayListObjects\obj\Debug\netcoreapp3.1\ArrayListObjects.dll
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\ArrayListObjects\obj\Debug\netcoreapp3.1\ArrayListObjects.pdb
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\ArrayListObjects\obj\Debug\netcoreapp3.1\ArrayListObjects.genruntimeconfig.cache
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\ArrayListObjects\obj\Debug\netcoreapp3.1\ArrayListObjects.csprojAssemblyReference.cache

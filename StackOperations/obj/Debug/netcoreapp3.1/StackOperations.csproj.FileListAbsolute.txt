@@ -1,0 +1,13 @@
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\StackOperations\bin\Debug\netcoreapp3.1\StackOperations.exe
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\StackOperations\bin\Debug\netcoreapp3.1\StackOperations.deps.json
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\StackOperations\bin\Debug\netcoreapp3.1\StackOperations.runtimeconfig.json
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\StackOperations\bin\Debug\netcoreapp3.1\StackOperations.runtimeconfig.dev.json
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\StackOperations\bin\Debug\netcoreapp3.1\StackOperations.dll
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\StackOperations\bin\Debug\netcoreapp3.1\StackOperations.pdb
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\StackOperations\obj\Debug\netcoreapp3.1\StackOperations.csprojAssemblyReference.cache
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\StackOperations\obj\Debug\netcoreapp3.1\StackOperations.AssemblyInfoInputs.cache
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\StackOperations\obj\Debug\netcoreapp3.1\StackOperations.AssemblyInfo.cs
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\StackOperations\obj\Debug\netcoreapp3.1\StackOperations.csproj.CoreCompileInputs.cache
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\StackOperations\obj\Debug\netcoreapp3.1\StackOperations.dll
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\StackOperations\obj\Debug\netcoreapp3.1\StackOperations.pdb
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\StackOperations\obj\Debug\netcoreapp3.1\StackOperations.genruntimeconfig.cache

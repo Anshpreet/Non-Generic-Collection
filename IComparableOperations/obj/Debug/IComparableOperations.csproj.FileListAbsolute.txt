@@ -1,0 +1,7 @@
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\IComparableOperations\bin\Debug\IComparableOperations.exe.config
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\IComparableOperations\bin\Debug\IComparableOperations.exe
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\IComparableOperations\bin\Debug\IComparableOperations.pdb
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\IComparableOperations\obj\Debug\IComparableOperations.csprojAssemblyReference.cache
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\IComparableOperations\obj\Debug\IComparableOperations.csproj.CoreCompileInputs.cache
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\IComparableOperations\obj\Debug\IComparableOperations.exe
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\IComparableOperations\obj\Debug\IComparableOperations.pdb

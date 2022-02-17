@@ -1,0 +1,13 @@
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\QueueOperations\bin\Debug\netcoreapp3.1\QueueOperations.exe
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\QueueOperations\bin\Debug\netcoreapp3.1\QueueOperations.deps.json
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\QueueOperations\bin\Debug\netcoreapp3.1\QueueOperations.runtimeconfig.json
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\QueueOperations\bin\Debug\netcoreapp3.1\QueueOperations.runtimeconfig.dev.json
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\QueueOperations\bin\Debug\netcoreapp3.1\QueueOperations.dll
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\QueueOperations\bin\Debug\netcoreapp3.1\QueueOperations.pdb
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\QueueOperations\obj\Debug\netcoreapp3.1\QueueOperations.csprojAssemblyReference.cache
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\QueueOperations\obj\Debug\netcoreapp3.1\QueueOperations.AssemblyInfoInputs.cache
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\QueueOperations\obj\Debug\netcoreapp3.1\QueueOperations.AssemblyInfo.cs
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\QueueOperations\obj\Debug\netcoreapp3.1\QueueOperations.csproj.CoreCompileInputs.cache
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\QueueOperations\obj\Debug\netcoreapp3.1\QueueOperations.dll
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\QueueOperations\obj\Debug\netcoreapp3.1\QueueOperations.pdb
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\QueueOperations\obj\Debug\netcoreapp3.1\QueueOperations.genruntimeconfig.cache

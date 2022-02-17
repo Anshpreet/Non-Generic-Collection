@@ -1,0 +1,13 @@
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\SortedListOperations\bin\Debug\netcoreapp3.1\SortedListOperations.exe
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\SortedListOperations\bin\Debug\netcoreapp3.1\SortedListOperations.deps.json
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\SortedListOperations\bin\Debug\netcoreapp3.1\SortedListOperations.runtimeconfig.json
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\SortedListOperations\bin\Debug\netcoreapp3.1\SortedListOperations.runtimeconfig.dev.json
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\SortedListOperations\bin\Debug\netcoreapp3.1\SortedListOperations.dll
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\SortedListOperations\bin\Debug\netcoreapp3.1\SortedListOperations.pdb
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\SortedListOperations\obj\Debug\netcoreapp3.1\SortedListOperations.csprojAssemblyReference.cache
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\SortedListOperations\obj\Debug\netcoreapp3.1\SortedListOperations.AssemblyInfoInputs.cache
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\SortedListOperations\obj\Debug\netcoreapp3.1\SortedListOperations.AssemblyInfo.cs
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\SortedListOperations\obj\Debug\netcoreapp3.1\SortedListOperations.csproj.CoreCompileInputs.cache
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\SortedListOperations\obj\Debug\netcoreapp3.1\SortedListOperations.dll
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\SortedListOperations\obj\Debug\netcoreapp3.1\SortedListOperations.pdb
+C:\Users\Anshpreet kaur\source\repos\ArrayListObjects\SortedListOperations\obj\Debug\netcoreapp3.1\SortedListOperations.genruntimeconfig.cache
